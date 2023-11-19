@@ -1,7 +1,7 @@
 ## Project Proposal
 
 ### Definition:
-Creating Movie Recommender Engine, by collecting, analyzing and modeling data from various sources and predicting the users' film preferences based on their previously watched movies..
+Creating Movie Recommender Engine, by collecting, analyzing and modeling data from various sources and predicting the users' film preferences based on their previously watched movies.
 
 ### Anticipated Approach:
 *   Data Collection for movies and their associated features.
